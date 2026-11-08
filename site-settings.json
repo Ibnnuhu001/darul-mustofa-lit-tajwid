@@ -1,0 +1,14 @@
+{
+  "updatedAt": 1794175737422,
+  "hidden": [],
+  "fee": {
+    "naira": "14900",
+    "usd": "12.99",
+    "note": "every 4 weeks"
+  },
+  "pw": {
+    "salt": "619e51ddf9eb836c75f3a4773e5bd923",
+    "iter": 150000,
+    "hash": "3c0ee19dc1bca0b837d6d1b1c4e8425ae59b26e4f0559c4c1a08a748a74cc9e2"
+  }
+}
